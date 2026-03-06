@@ -1,0 +1,16 @@
+torch
+torchvision
+torchmetrics>=1.4.2
+pytorch-lightning
+numpy
+pandas
+pillow
+opencv-python-headless
+scikit-learn
+scikit-image
+tqdm
+timm
+thop
+tensorboard
+albumentations
+einops

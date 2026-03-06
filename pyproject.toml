@@ -1,0 +1,26 @@
+[project]
+name = "switch"
+version = "0.1.0"
+description = "Multi-scale Switch for Semi-Supervised and Contrastive Learning in Medical Ultrasound Image Segmentation"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "torch",
+    "torchvision",
+    "torchmetrics>=1.4.2",
+    "monai",
+    "numpy",
+    "pandas",
+    "pillow",
+    "scikit-image",
+    "scikit-learn",
+    "tqdm",
+    "timm",
+    "tensorboard",
+    "einops",
+    "matplotlib",
+    "seaborn",
+    "opencv-python-headless",
+    "albumentations",
+    "thop",
+]
