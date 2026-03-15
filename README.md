@@ -93,7 +93,13 @@ tensorboard --logdir runs/
 ## Citation
 
 ```bibtex
-
+@article{qu2026multiscale,
+  title={Multiscale Switch for Semi-Supervised and Contrastive Learning in Medical Ultrasound Image Segmentation},
+  author={Qu, Jingguo and Han, Xinyang and Pu, Yao and Chui, Man-Lik and Gunda, Simon Takadiyi and Chen, Ziman and Qin, Jing and King, Ann Dorothy and Chu, Winnie Chiu-Wing and Cai, Jing and others},
+  journal={IEEE Transactions on Neural Networks and Learning Systems},
+  year={2026},
+  publisher={IEEE}
+}
 ```
 
 ## Acknowledgements
