@@ -1,6 +1,6 @@
 # Multiscale Switch for Semi-Supervised and Contrastive Learning in Medical Ultrasound Image Segmentation
 
-[[Paper](http://doi.org/10.1109/TNNLS.2026.3669814)] [[Datasets](https://github.com/jinggqu/Switch/releases)]
+[[Paper](http://doi.org/10.1109/TNNLS.2026.3669814)] [[Datasets](https://github.com/jinggqu/Switch/releases)] [[Online APP](https://polyustar.github.io/sonox)]
 
 ## Abstract
 
@@ -105,3 +105,7 @@ tensorboard --logdir runs/
 ## Acknowledgements
 
 We want to thank the [SSL4MIS](https://github.com/HiLab-git/SSL4MIS), [BCP](https://github.com/DeepMed-Lab-ECNU/BCP), and [ABD](https://github.com/Star-chy/ABD) projects for their contributions to the community. 
+
+## License
+
+CC BY-NC 4.0
